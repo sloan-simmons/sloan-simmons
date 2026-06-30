@@ -27,11 +27,13 @@ Here are some ideas to get you started:
   I design and build modern software across the stack — from polished web experiences and developer tools to distributed backends, security utilities, and cloud-ready systems.
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/sloan-simmons">
     <img src="https://komarev.com/ghpvc/?username=sloan-simmons&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
+-->
 
 ---
 
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 
 **Email:** `sloansimmons40@outlook.com`
 
-**Phone:** `+44 7481781004`
+<!--**Phone:** `+44 7481781004`-->
 
 **Organization:** Huron Consulting Services LLC
 
