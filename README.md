@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 
 <!--**Phone:** `+44 7481781004`-->
 
-**Organization:** Huron Consulting Services LLC
+<!--**Organization:** Huron Consulting Services LLC
 
 **Role:** Senior Full-Stack Engineer / Cloud-Native Architect
 
-**Location:** Dhaka, Bangladesh
+**Location:** Dhaka, Bangladesh-->
 
 **Mailing Address:** Lalmatia Girls College Road, Dhaka 1205, Bangladesh
 
