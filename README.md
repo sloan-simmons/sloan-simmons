@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ## Hi there 👋
+-->
 
 <h1 align="center">Hi, I'm Sloan Simmons 👋</h1>
 
@@ -30,6 +32,24 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=sloan-simmons&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
+
+---
+
+## Contact & Professional Info
+
+**Name:** Sloan Simmons
+
+**Email:** `sloansimmons40@outlook.com`
+
+**Phone:** `+44 7481781004`
+
+**Organization:** Huron Consulting Services LLC
+
+**Role:** Senior Full-Stack Engineer / Cloud-Native Architect
+
+**Location:** Dhaka, Bangladesh
+
+**Mailing Address:** Lalmatia Girls College Road, Dhaka 1205, Bangladesh
 
 ---
 
